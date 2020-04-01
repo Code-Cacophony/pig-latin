@@ -1,0 +1,14 @@
+body {
+  background-color: beige;
+}
+
+
+.btn {
+  border: solid black 1px;
+  background-color: whitesmoke;
+  margin: 20px;
+}
+
+.results {
+  display: none;
+}
